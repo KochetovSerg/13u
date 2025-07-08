@@ -1,8 +1,0 @@
-C:\Users\Админ\source\repos\1.3U\bin\Debug\1.3U.exe.config
-C:\Users\Админ\source\repos\1.3U\bin\Debug\1.3U.exe
-C:\Users\Админ\source\repos\1.3U\bin\Debug\1.3U.pdb
-C:\Users\Админ\source\repos\1.3U\obj\Debug\1.3U.csproj.AssemblyReference.cache
-C:\Users\Админ\source\repos\1.3U\obj\Debug\1.3U.csproj.CoreCompileInputs.cache
-C:\Users\Админ\source\repos\1.3U\obj\Debug\1.3U.exe
-C:\Users\Админ\source\repos\1.3U\obj\Debug\1.3U.pdb
-C:\Users\Админ\source\repos\1.3U\obj\Debug\1.3U.exe.config
